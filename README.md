@@ -4,6 +4,6 @@ This website is for a fictitious company called Omnifood and the project for the
  </p>
   
   <p align="center">
- -    <img src="http://imgur.com/a/SARn7" />
- +    <img src="http://imgur.com/a/0g7zW" />
+ -    <img src="http://imgur.com/a/SARn7.png" />
+ +    <img src="http://imgur.com/a/0g7zW.png" />
   </p>
